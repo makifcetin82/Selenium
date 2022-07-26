@@ -26,7 +26,6 @@ public class _06_AlertPart3 extends BaseStaticDriver {
         BekleKapat();
 
 
-
     }
 
 
