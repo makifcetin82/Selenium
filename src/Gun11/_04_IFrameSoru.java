@@ -10,15 +10,12 @@ package Gun11;
 import Utils.BaseStaticDriver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-
 public class _04_IFrameSoru extends BaseStaticDriver {
 
 
     public static void main(String[] args) {
 
         driver.get("https://testsheepnz.github.io/BasicCalculator.html");
-
-        WebElement firstNo=driver.findElement(By.id("number1Field"));
 
 
 
