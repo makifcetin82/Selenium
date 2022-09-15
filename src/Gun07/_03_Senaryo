@@ -1,5 +1,0 @@
-https://www.facebook.com/ sayfasına gidiniz.
-2-CreateNewAccount a tıklatınız
-3-Açılan pencerede isim,soyisim ve emaili giriniz.
-4-Email i tekrar girmenizi isteyen bir ınput daha açıldığını
-öncesinde de görünmediğini assert ile doğrulayınız.
